@@ -11,7 +11,7 @@ SEO leader in Nashville building AI-native tools, workflows, and products.
 - **[a11y-saas](https://github.com/ewimsatt/a11y-saas)** - Accessibility scanning SaaS (scan -> fingerprint -> evidence -> triage)
 - **[openclaw-opsdeck-core](https://github.com/ewimsatt/openclaw-opsdeck-core)** - Mission Control dashboard for OpenClaw (round table, local chat, crons)
 - **[OmarCMS](https://github.com/ewimsatt/OmarCMS)** - AI-native blogging platform
-- **[uptimetracker](https://github.com/ewimsatt/uptimetracker)** - Lightweight BASH uptime tracker with Slack alerts
+- **[agent-vault](https://github.com/ewimsatt/agent-vault)** - Zero-trust credential manager for AI agents
 
 ## Current interests
 
